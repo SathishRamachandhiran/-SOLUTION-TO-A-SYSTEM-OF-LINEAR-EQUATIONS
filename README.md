@@ -28,7 +28,7 @@ print(s)
 
 ## Output:
 
-![output](lineara.png)
+![output](linear.png)
 
 
 ## Result:
